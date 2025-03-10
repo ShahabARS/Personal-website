@@ -1357,7 +1357,7 @@ ul {
 .home {
   height: 76rem;
   padding-top: 5rem;
-  background: url(../images/shapes/wave\ finall.svg) no-repeat;
+  background: url(../Images/shapes/wave\ finall.svg) no-repeat;
   background-position: bottom;
   margin-bottom: 4rem;
 }
@@ -1479,7 +1479,7 @@ ul {
 }
 
 .home__picture {
-  background: url(../images/header-avatar.jpg);
+  background: url(../Images/header-avatar.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1522,7 +1522,7 @@ ul {
 .aboutus-mobile__shape-mirror {
   display: none;
   position: absolute;
-  background: url(../images/shapes/mobile.svg) no-repeat;
+  background: url(../Images/shapes/mobile.svg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1563,7 +1563,7 @@ ul {
 }
 
 .about__cover {
-  background: url(../images/about-us-man.jpg) no-repeat;
+  background: url(../Images/about-us-man.jpg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2263,7 +2263,7 @@ ul {
 
 .contact-us {
   position: relative;
-  background: url(../images/Map.jpg);
+  background: url(../Images/Map.jpg);
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
@@ -2943,7 +2943,7 @@ ul {
   }
 
   .home {
-    background-image: url(../images/shapes/circle.svg);
+    background-image: url(../Images/shapes/circle.svg);
     height: -webkit-fit-content;
     height: -moz-fit-content;
     height: fit-content;
